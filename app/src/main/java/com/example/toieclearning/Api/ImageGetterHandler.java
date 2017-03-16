@@ -21,7 +21,7 @@ import java.net.URL;
  * Created by MyPC on 3/13/2017.
  *
  */
-
+//textadsadasdsa
 public class ImageGetterHandler implements Html.ImageGetter{
 
     public FileCache mCache;
